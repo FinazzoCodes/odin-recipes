@@ -8,6 +8,6 @@ The anchor tags take you to separate pages that display the specific recipe.
 
 ## Skills Gained
 
--Utilizing tags (img, p, headings, lists, etc...)
--File structure
--Following best practices
+- Utilizing tags (img, p, headings, lists, etc...)
+- File structure
+- Following best practices
